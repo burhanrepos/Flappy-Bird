@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(rgb(141, 150, 155),rgb(0, 0, 0));
+}
+#canvas{
+    box-shadow: 0px 0px 5px white;
+    border:2px solid white;
+}
